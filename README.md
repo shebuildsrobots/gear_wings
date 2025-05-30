@@ -44,3 +44,4 @@ For board, select Adafruit Trinket (ATtiny85 @16MHz). To upload, hold and releas
 # Recommended improvements:
 *  Add washers between the cardboard and the gears to reduce friction.
 *  Enlarge or reshape the profile of the electronics housing backpack to better distribute weight across the back. The pack tents to tilt forward, leading to misalignment of the gears.
+* Make the backpack shape cuter and more whimsical. Hide some of the stepper wiring that is exposed by the current design.
