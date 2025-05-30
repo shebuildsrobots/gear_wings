@@ -37,11 +37,12 @@ Assemble your circuit as shown above.
 
 Place the circuit inside your 3D printed backpack. Add ribbons or straps to the lid if desired. Screw the lid down onto the body using M2 screws and secure with M2 nuts. 
 
+<img src="https://github.com/user-attachments/assets/6b0b1447-62e3-4c7f-ad4e-b53277ab48de" width="600" alt="electronics housing">
 
 # Arduino IDE notes
 For board, select Adafruit Trinket (ATtiny85 @16MHz). To upload, hold and release the button on the Trinket to enter bootloader mode, then upload using programmer (Ctrl+Shift+U) or Sketch > Upload Using Programmer.
 
 # Recommended improvements:
 *  Add washers between the cardboard and the gears to reduce friction.
-*  Enlarge or reshape the profile of the electronics housing backpack to better distribute weight across the back. The pack tents to tilt forward, leading to misalignment of the gears.
+*  Enlarge or reshape the profile of the electronics housing backpack to better distribute weight across the back. The pack tends to tilt forward, leading to misalignment of the gears.
 * Make the backpack shape cuter and more whimsical. Hide some of the stepper wiring that is exposed by the current design.
