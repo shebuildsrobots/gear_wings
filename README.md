@@ -4,6 +4,7 @@ Make a pair of steampunk gear wings that really rotate.
 # Materials:
 -Stepper motor (28BYJ-48)
 -Stepper driver (ULN2003 Driver)
+-Stepper shaft coupler (e.g. https://www.amazon.com/dp/B0BF46M4NH?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 -Adafruit Trinket 5V
 -9V battery with header snap and wire leads
 -6x jewelry header pins
@@ -16,6 +17,15 @@ Make a pair of steampunk gear wings that really rotate.
 
 # Wiring Diagram
 ![circuit_image](https://github.com/user-attachments/assets/4b2175c9-1c0c-4ceb-80da-5e8f9eb8e209)
+
+# Assembly
+Print 1x `center_gear.stl`, 2x each of `gear_3.stl`, `gear_4.stl`, and `gear_5.stl` (there is no gear 1 or gear 2; these were discarded drafts during prototyping).
+
+Optionally print 1x each of `nautilus_left.stl` and `nautilus_right.stl`.
+
+Create a wing base by laser cutting `wing_base.svg` out of heavy duty double thickness cardboard, or freestyle your own base out of any material you'd like. You'll need to be able to pierce the material later to place your gears.
+
+Attach the stepper shaft coupler to the stepper shaft using the provided screw. Glue the center gear (`center_gear.stl`) on top of the coupler (there is an indent in the central gear circle for slotting in the coupler).
 
 
 # Arduino IDE notes
