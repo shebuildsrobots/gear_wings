@@ -19,7 +19,7 @@ Make a pair of steampunk gear wings that really rotate.
 
 
 # Arduino IDE notes
-For borad, select Adafruit Trinket (ATtiny85 @16MHz). To upload, hold and release the button on the Trinket to enter bootloader mode, then upload using programmer (Ctrl+Shift+U) or Sketch > Upload Using Programmer.
+For board, select Adafruit Trinket (ATtiny85 @16MHz). To upload, hold and release the button on the Trinket to enter bootloader mode, then upload using programmer (Ctrl+Shift+U) or Sketch > Upload Using Programmer.
 
 # Recommended improvements:
 -Add washers between the cardboard and the gears to reduce friction.
