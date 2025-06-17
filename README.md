@@ -1,5 +1,5 @@
 # Gear wings
-Make a pair of steampunk gear wings that really rotate.
+Make a pair of steampunk gear wings that really rotate. TODO(christina): add link to instagram video once it's posted.
 
 # Materials:
 *  Stepper motor (28BYJ-48)
